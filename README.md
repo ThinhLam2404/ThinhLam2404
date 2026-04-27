@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Lam Duc Thinh
 
-<!--
-**ThinhLam2404/ThinhLam2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend-Oriented Fullstack Developer  
+📍 Ho Chi Minh City, Vietnam  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I am a backend-focused software engineer with a strong foundation in **Node.js** and modern web technologies.  
+
+- 🎯 Goal: Start as a Backend Developer → grow into a Fullstack Engineer  
+- ⚡ Passion: Building scalable systems & real-world applications  
+- 🧠 Mindset: Continuous learning + AI-assisted development  
+- 🤝 Team player with Agile/Scrum experience  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💡 Languages
+- JavaScript | TypeScript | Java  
+
+### ⚙️ Backend
+- Node.js (ExpressJS, NestJS)  
+- Microservices (TCP / gRPC)  
+- Kafka (Event-driven architecture)  
+
+### 🎨 Frontend
+- ReactJS  
+
+### 🗄️ Databases
+- MongoDB | PostgreSQL | Redis | SQL Server  
+
+### 🔧 Tools & Technologies
+- Docker | GitHub | Postman | Swagger  
+- Keycloak (Auth)  
+- Socket.IO (Realtime)  
+- Puppeteer | Stripe | Cloudinary  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: thinhld.dev@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/duc-thinh-lam-90ba973a2/  
+- 🐙 GitHub: https://github.com/ThinhLam2404  
+
+---
+
+## 📈 GitHub Stats
+
+![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThinhLam2404&show_icons=true&theme=tokyonight)
+
+---
