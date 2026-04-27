@@ -48,8 +48,3 @@ I am a backend-focused software engineer with a strong foundation in **Node.js**
 
 ---
 
-## 📈 GitHub Stats
-
-![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThinhLam2404&show_icons=true&theme=tokyonight)
-
----
